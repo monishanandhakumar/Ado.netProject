@@ -10,6 +10,7 @@ namespace PrjAdo.NetEg
 
         internal void DisplayStudent()
         {
+            Console.WriteLine("Added Branch1, sending pull request");
             Console.WriteLine("CollegeName:{0} || StudentId:{0}",collegename,id);
         }
     }
